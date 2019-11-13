@@ -9,11 +9,16 @@ R2D2
 alt="MultiFaceTracker_demo1 Video" width="640" height="480" border="1" /></a>
 
 ## Contributors
-B M Abir
-Nazmus Sakib Abir
-Somania Nur Mahal
-Sajib Zaheen
-Sheikh Afrina Maria
+  B M Abir
+  
+  Nazmus Sakib Abir
+  
+  Somania Nur Mahal
+  
+  Sajib Zaheen
+  
+  Sheikh Afrina Maria
+  
 
 
 
